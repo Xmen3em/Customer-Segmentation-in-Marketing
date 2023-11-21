@@ -18,8 +18,8 @@ Are there any geographical locations where most of our students discover the pla
 - In the Customer Segmentation in Marketing with Python project, you’ll delve into the diversity of customer behavior and identify distinct segments that could be targeted with personalized marketing strategies.
 
 ### Project Files
-- The customer_segmentation_data.csv file contains information about the country of residence, customer lifetime value, and overall engagement.
-The Segmentation data legend.xlsx contains additional information about the segmentation data variables. 
+- **The customer_segmentation_data.csv** file contains information about the country of residence, customer lifetime value, and overall engagement.
+- **The Segmentation data legend.xlsx** contains additional information about the segmentation data variables. 
 
 ### Project requirements
 1. pandas 
